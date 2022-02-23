@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few lines touching baptism shewing, I. What baptism is, with its signification, II. Who are fit subjects to be baptized, III. The good old way of baptizing, IV. Some objections answered / by Matthew Fenn .</title>
+            <author>Fenn, Matthew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41101</idno>
+            <idno type="STC">Wing F677</idno>
+            <idno type="STC">ESTC R40592</idno>
+            <idno type="EEBO-CITATION">19371170</idno>
+            <idno type="OCLC">ocm 19371170</idno>
+            <idno type="VID">108815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few lines touching baptism shewing, I. What baptism is, with its signification, II. Who are fit subjects to be baptized, III. The good old way of baptizing, IV. Some objections answered / by Matthew Fenn .</title>
+                  <author>Fenn, Matthew.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Fenn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108815:1"/>
+            <p>
+               <hi>A Few LINES</hi> TOUCHING BAPTISM: SHEWING,
+<list>
+                  <item>I. What <hi>Baptiſm</hi> is; with its <hi>ſignification.</hi>
+                  </item>
+                  <item>II. Who are fit Subjects to be Baptized.</item>
+                  <item>III. The Good Old Way of Baptizing.</item>
+                  <item>IV. Some Objections Anſwered.</item>
+               </list>
+            </p>
+            <p>By <hi>Matthew Fenn.</hi>
+            </p>
+            <q>
+               <bibl>Matth. 3.13.</bibl>
+               <p>Then cometh Jeſus from Galilee to Jordan unto <hi>John,</hi> to be Baptized of him.</p>
+            </q>
+            <q>
+               <bibl>Jeremiah 6.16.</bibl>
+               <p>Thus ſaith the Lord, Stand ye in the Ways, and ſee and ask for the Old Paths, where is the Good Way, and walk therein, and ye ſhall find reſt for your Souls: But they ſaid, We will not walk therein.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Matthew Fenn,</hi> at <hi>Coggshall</hi> in <hi>Eſſex.</hi> 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108815:2" rendition="simple:additions"/>
+            <pb facs="tcp:108815:2"/>
+            <head>The Epiſtle.</head>
+            <p>THeſe Lines I deſire may be per<g ref="char:EOLhyphen"/>uſed by ſerious Souls; and al<g ref="char:EOLhyphen"/>though ſome Men may not read them, yet I hope they will not abuſe them: The Author's Endeavours extend not to that Greatneſs of Skill which ſome Men deſire; yet tho' they may not pro<g ref="char:EOLhyphen"/>fit all Men, they may do good to ſome. The Captious are always apt to deſpiſe that which the Prudent value; becauſe that the Lord chuſeth baſe Things to confound the Mighty: Therefore, my Chriſtian Friends, ponder the matter, and ariſe, and be Baptized.</p>
+            <closer>
+               <dateline>
+                  <hi>Coggshall in</hi> Eſſex,
+<date>
+                     <hi>1696.</hi>
+                  </date>
+               </dateline>
+               <signed>Mathew Fenn.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="4" facs="tcp:108815:3"/>
+            <head>
+               <hi>I.</hi> What Baptiſm is.</head>
+            <p>
+               <hi>BAPTISM</hi> is a Goſpel-Ordinance, ordained by Chriſt Himſelf, when <hi>All Power</hi> was <hi>given him, both in Hea<g ref="char:EOLhyphen"/>ven and in Earth,</hi> Mat. 28.18, 19.</p>
+            <p>And it is one of the great Witneſſes Chriſt left to <hi>bear Record</hi> in Earth; as in 1 <hi>John.</hi> 5.8. <hi>There are three that bear Witneſs in Earth, the Spirit, the</hi> Water, <hi>and the Bloud; and theſe Three agree in One.</hi>
+            </p>
+            <p>And ſo it is one of the great Sa<g ref="char:EOLhyphen"/>craments of the New Teſtament, which ſignifieth the Death, Burial, Reſurrecti<g ref="char:EOLhyphen"/>on and Aſcenſion of our Lord Jeſus; ſhewing clearly, that as Chriſt died for our Sins, was buried, roſe again from the dead, aſcended up on high; even ſo <hi>we being dead to Sin, ſhould be buried with him in Baptiſm into death; that like as Chriſt was raiſed from the dead; by the Glory of the Father, even ſo we alſo ſhould walk in newneſs of life,</hi> Rom. 6.13, 4, 5.</p>
+            <div type="poem">
+               <pb n="5" facs="tcp:108815:3"/>
+               <head>What Baptiſm is.</head>
+               <lg>
+                  <l>
+                     <hi>BAptiſm</hi> is a Sacrament,</l>
+                  <l>Which to us ſignifie,</l>
+                  <l>That God the Father Jeſus ſent,</l>
+                  <l>And he for us did die;</l>
+               </lg>
+               <lg>
+                  <l>And that he in the Grave was laid,</l>
+                  <l>And alſo buried,</l>
+                  <l>When he our dreadful Debt had paid,</l>
+                  <l>For which his Bloud was ſhed:</l>
+               </lg>
+               <lg>
+                  <l>And that he did ariſe again,</l>
+                  <l>Aſcended up on high,</l>
+                  <l>When he the Enmity had ſlain:</l>
+                  <l>All this it ſignifie.</l>
+               </lg>
+               <lg>
+                  <l>And thus we plainly may perceive</l>
+                  <l>What was the Lord's intent,</l>
+                  <l>When he was pleas'd with us to leave</l>
+                  <l>This Holy Sacrament.</l>
+               </lg>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="6" facs="tcp:108815:4"/>
+            <head>
+               <hi>II.</hi> Who may be Baptized.</head>
+            <p>HE that believeth, and is baptized, ſhall be ſaved, <hi>Mark 16.16,</hi>
+            </p>
+            <p>But when they believed <hi>Philip</hi> preaching the Things concerning the Kingdom of God, and the Name of Jeſus Chriſt, they were baptized both Men and Women, <hi>Acts 8.12.</hi>
+            </p>
+            <p>And as they went on their way, they came unto a certain Water, and the Enuch ſaid, See, here is Water, what doth hinder me to be baptiſed?</p>
+            <p>And <hi>Philip</hi> ſaid, If thou believeſt with all thine heart, thou may'ſt. And he an<g ref="char:EOLhyphen"/>ſwered and ſaid, I believe that Jeſus Chriſt is the Son of God.</p>
+            <p>And he commanded the Chariot to ſtand ſtill, and they went both down into the Water, both <hi>Philip</hi> and the Enuch, and he bapliſed him. <hi>Acts 8.37, 38, 39.</hi>
+            </p>
+            <p>Then they that gladly received his Word, were baptized, <hi>Acts 2.41.</hi>
+            </p>
+            <p>And without Faith it is impoſſible to pleaſe God, <hi>Heb. 11.6.</hi>
+            </p>
+            <p>For whatſoever is not of Faith is Sin, <hi>Rom. 14.23.</hi>
+            </p>
+            <div type="poem">
+               <pb n="7" facs="tcp:108815:4"/>
+               <head>Who may be Baptized.</head>
+               <l>HE that believes, and is baptiz'd,</l>
+               <l>'Tis he ſhall ſaved be;</l>
+               <l>For thus our Saviour dear advis'd,</l>
+               <l>In Scripture you may ſee.</l>
+               <l>Faith is that Grace which makes Souls fit</l>
+               <l>Their Saviour to obey;</l>
+               <l>Let,s labour then that Grace to get,</l>
+               <l>To help us it the way.</l>
+               <l>If thou with all thy heart believe,</l>
+               <l>
+                  <hi>Phillip</hi> the Enuch told,</l>
+               <l>Then Baptiſm thou may'ſt receive;</l>
+               <l>And thus it was of old.</l>
+               <l>But where that Grace cannot be found,</l>
+               <l>We clearly underſtand,</l>
+               <l>Such to baptize there is no ground,</l>
+               <l>They build upon the ſand.</l>
+               <l>And when the ſtormy Winds do blow,</l>
+               <l>And Rain it doth deſcend,</l>
+               <l>Then great will be their Overthrow,</l>
+               <l>And Woe will be their end.</l>
+               <l>Then beg of God to give thee Faith</l>
+               <l>To follow Chriſt herein;</l>
+               <l>For as the holy Scripture ſaith,</l>
+               <l>What's not of Faith, is ſin.</l>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <pb n="8" facs="tcp:108815:5"/>
+            <head>III. The good old Way of Baptizing.</head>
+            <p>JOhn did baptize in the Wilderneſs, and preached the Baptiſm of Repentance for the remiſſion of Sins. And there went out to him all the Land of <hi>Judaea,</hi> and they of <hi>Jeruſalem,</hi> and were all bapti<g ref="char:EOLhyphen"/>zed of him in the River <hi>Jordan,</hi> confeſſing their Sins, <hi>Mark 1.4.5. Matth. 3.1, 2, 5, 7.</hi>
+            </p>
+            <p>And it came to paſs in thoſe days, that Jeſus came from <hi>Nazareth</hi> of <hi>Galilee,</hi> and was baptized of <hi>John</hi> (IN <hi>Jordan) (mark that.)</hi> And ſtreight<g ref="char:EOLhyphen"/>way coming up out of the Water, he ſaw the Heavens o<g ref="char:EOLhyphen"/>pened, and the Spririt like a Dove deſcending upon him.</p>
+            <p>And there came a Voice from Heaven ſaying, Thou art my beloved Son, in whom I am well pleaſed, <hi>Mark 1.9, 10, 11.</hi>
+            </p>
+            <p>After theſe things came Jeſus and his Diſciples in<g ref="char:EOLhyphen"/>to the Land of <hi>Judea,</hi> and there he tarried with them, and baptiſed:</p>
+            <p>
+               <hi>John</hi> alſo was baptizing in <hi>Enon</hi> near to <hi>Salim,</hi> becauſe there was much Water there: And they <hi>Came (mark that)</hi> and were baptized, <hi>John 3.23.</hi>
+            </p>
+            <p>
+               <hi>Acts 19.4, 5.</hi> ſaid <hi>Paul, John</hi> verily baptized with the Baptiſm of Repentance, ſaying unto the People, That they ſhould believe on him that ſhould come after him, that is, on Chriſt. When they heard this, they were baptized in the Name of the Lord Jeſus.</p>
+            <p>
+               <hi>And in Acts 8.36, 37, 38.</hi> And <hi>Philip</hi> ſaid, If thou believeſt with all thine heart, thou may'ſt: And he anſwered and ſaid, I believe that Jeſus Chriſt is the Son of God. And he commanded the Chariot to ſtand ſtill; and they went down both into the Water, both <hi>Philip</hi> and the Eunuch, and he baptized him.</p>
+            <div type="poem">
+               <pb n="9" facs="tcp:108815:5"/>
+               <head>The Good Old Way of Baptizing.</head>
+               <l>BAptizing is not Sprinkling,</l>
+               <l>As fondly ſome ſurmize;</l>
+               <l>But it is quite another thing,</l>
+               <l>To Dip is to Baptize.</l>
+               <l>We find our Bleſſed Saviour went</l>
+               <l>Down into <hi>Jordan</hi>'s Flood,<note place="margin">Mark 1.9.</note>
+               </l>
+               <l>As in his Holy Teſtament</l>
+               <l>Is clearly underſtood:</l>
+               <l>For coming up from thence, we read</l>
+               <l>The Heavens opened were,</l>
+               <l>And the Trinity indeed,</l>
+               <l>This Truth confirmed there:</l>
+               <l>The Son down into <hi>Jordan</hi> went</l>
+               <l>And coming up again,</l>
+               <l>The Holy Ghoſt made a deſcent,</l>
+               <l>And on him did remain;</l>
+               <l>And lo a Voice from Heaven fell,</l>
+               <l>'Tis my Beloved Son,</l>
+               <l>And he indeed hath pleas'd me well,</l>
+               <l>In that which he hath done.</l>
+               <l>But Men are now too lofty grown</l>
+               <l>Their Saviour dear to follow;</l>
+               <l>In vain Inventions of their own</l>
+               <l>They'd rather lie and wallow.</l>
+               <l>What, dipt as Chriſt was? that's too low</l>
+               <l>For moſt in this our Age;</l>
+               <l>
+                  <hi>Naaman</hi>-like they angry grow,<note place="margin">2 <hi>King.</hi> 5.11, 12.</note>
+               </l>
+               <l>And fall into a Rage;</l>
+               <l>As I my ſelf have heard ſome ſay,</l>
+               <l>As now I tell to thee,</l>
+               <l>Before they would be ſav'd that way,</l>
+               <l>They'd never ſaved be.</l>
+               <l>
+                  <pb n="10" facs="tcp:108815:6"/>But the true, humble, gracious Soul,</l>
+               <l>Their Saviour dear will eye,</l>
+               <l>And follow him without controul,</l>
+               <l>There is great reaſon why.</l>
+               <l>Chriſt's way it is the cleareſt caſe,</l>
+               <l>Though Men do it gainſay;</l>
+               <l>Be thou baptiz'd as Jeſus was,</l>
+               <l>For that's the only way.</l>
+            </div>
+         </div>
+         <div n="4" type="part">
+            <head>IV. Some Objections anſwered.</head>
+            <epigraph>
+               <q>
+                  <p>And now why tarrieſt thou? ariſe and be baptized,</p>
+                  <bibl>
+                     <hi>Acts 22.16.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <l>I Pray mark well, my Chriſtian Friend,</l>
+            <l>And be thou well advis'd;</l>
+            <l>This Counſel Chriſt to <hi>Paul</hi> did ſend,<note place="margin">
+                  <hi>Acts.</hi> 9.6</note>
+            </l>
+            <l>Ariſe and be baptiz'd.</l>
+            <l>Pray what Objections can'ſt thou make,</l>
+            <l>Or wherefore doſt thou tarry?</l>
+            <l>God's Counſel now I pray thee take,</l>
+            <l>Leſt that thy Soul miſcarry.</l>
+            <div n="1" type="objection">
+               <head>The Firſt Objection.</head>
+               <l>It from the Pulpit hath been told,</l>
+               <l>As now I tell to thee,</l>
+               <l>Our <hi>Engliſh</hi> Climate is ſo cold,</l>
+               <l>Too cold it is for me.</l>
+               <l>If I this thing ſhould undertake,</l>
+               <l>And harm ſhould catch thereby,</l>
+               <l>The Truth may ſuffer for my ſake,</l>
+               <l>If I fall ſick and die.</l>
+               <div type="reply_to_objection">
+                  <pb n="11" facs="tcp:108815:6"/>
+                  <head>Anſwer to the Firſt Objection.</head>
+                  <l>Pray hearken now, my Friend to me;</l>
+                  <l>If God thy Life ſhould take,</l>
+                  <l>And thou ſhouldſt not baptized be,</l>
+                  <l>What anſwer couldſt thou make?</l>
+                  <l>If thou God's Council do'ſt reject,</l>
+                  <l>Then he will be thy Foe;</l>
+                  <l>If thou thy Duty do'ſt neglect,</l>
+                  <l>Then that will cauſe thy woe.</l>
+                  <l>Come, come, my Friend, and don't diſtruſt</l>
+                  <l>The help of Chriſt thy Lord,</l>
+                  <l>For he did never prove unjuſt,</l>
+                  <l>Nor falſifie his Word:</l>
+                  <l>His Grace it will ſufficient be,</l>
+                  <l>His Power he'll make known,</l>
+                  <l>And he will ſurely ſtand by thee,</l>
+                  <l>If thou his Truth do'ſt own.</l>
+                  <l>O then, I pray, God's Counſel take,</l>
+                  <l>And let thy Soul be pris'd;</l>
+                  <l>O beg the Lord for the Lord's ſake.</l>
+                  <l>Ariſe and be baptiz'd.</l>
+               </div>
+            </div>
+            <div n="2" type="objection">
+               <head>The Second Objection.</head>
+               <l>It is a mean deſpiſed way,</l>
+               <l>A way that Men do ſcorn,</l>
+               <l>And is ſo much deſpis'd this day,</l>
+               <l>It hardly can be born:</l>
+               <l>If I this thing ſhould undertake,</l>
+               <l>And ſhould baptized be,</l>
+               <l>My Friends I fear would me forſake,</l>
+               <l>And look aloof on me.</l>
+               <div type="reply_to_objection">
+                  <head>Anſwer.</head>
+                  <l>Calleſt thou that mean which Chriſt commands</l>
+                  <l>which he hath authoriz'd?</l>
+                  <l>And we in Scripture underſtand</l>
+                  <l>He was himſelf baptiz'd.</l>
+                  <l>
+                     <pb n="12" facs="tcp:108815:7"/>And what, are Men now grown ſo proud,</l>
+                  <l>That Truth cannot be born?</l>
+                  <l>Do they againſt it cry aloud,</l>
+                  <l>And hold it in great ſcorn?</l>
+                  <l>How will they anſwer it at laſt,</l>
+                  <l>When Chriſt to Judgment call,</l>
+                  <l>When he on them Contempt ſhall caſt,</l>
+                  <l>What woe will them befall?</l>
+                  <l>Then follow thou God's holy way,</l>
+                  <l>Although it be deſpis'd.</l>
+                  <l>Wouldſt thou be bleſt another day?</l>
+                  <l>Ariſe and be baptiz'd.</l>
+               </div>
+            </div>
+            <div n="3" type="objection">
+               <head>The Third Objection.</head>
+               <l>But I have in my Infancy</l>
+               <l>Baptiz'd already been:</l>
+               <l>And what, ſhould I now that deny,</l>
+               <l>And be baptiz'd again?</l>
+               <l>Godfathers and Godmothers too,</l>
+               <l>For me to God did vow,</l>
+               <l>And that I hope for me will do;</l>
+               <l>I pray what ſay'ſt thou now.</l>
+               <div type="reply_to_objection">
+                  <head>Anſwer.</head>
+                  <l>In Infancy thou waſt too young,</l>
+                  <l>(Mark well what here I ſay,)</l>
+                  <l>Thou ſhouldſt confeſs Chriſt with thy Tongue,</l>
+                  <l>And then his Truth obey.</l>
+                  <l>Thy Godfathers and Mothers which</l>
+                  <l>Of them thou ſeem'ſt to boaſt,</l>
+                  <l>In Scripture we can find none ſuch,</l>
+                  <l>Therefore thy Strength is loſt.</l>
+                  <l>Theſe are but things ordain'd by Men,</l>
+                  <l>By Men they were devis'd.</l>
+                  <l>O be not thou deceived then,</l>
+                  <l>Ariſe and be baptiz'd.</l>
+               </div>
+            </div>
+            <div n="4" type="objection">
+               <pb n="13" facs="tcp:108815:7"/>
+               <head>The Fourth Objection.</head>
+               <l>But I a true Believer am,</l>
+               <l>And truly fear the Lord,</l>
+               <l>And reverence his holy Name,</l>
+               <l>According to his Word:</l>
+               <l>The Lord his holy Spirit he</l>
+               <l>Now unto me hath given;</l>
+               <l>And muſt I yet baptiz'd be,</l>
+               <l>Who am baptiz'd from Heaven?</l>
+               <l>This is enough without controul,</l>
+               <l>I pray make no reply;</l>
+               <l>This is enough to ſave my Soul,</l>
+               <l>No Man can this deny.</l>
+               <div type="reply_to_objection">
+                  <head>Anſwer.</head>
+                  <l>This is indeed a bleſs'd eſtate.</l>
+                  <l>With thee I will agree;</l>
+                  <l>And 'tis as plain without debate,</l>
+                  <l>Thou may'ſt baptized be.</l>
+                  <l>
+                     <hi>Cornelius</hi> was as good a Man,<note place="margin">Acts. 10, 1,-48.</note>
+                  </l>
+                  <l>As moſt that we can find,</l>
+                  <l>As by the Scripture prove I can,</l>
+                  <l>He few Men came behind:</l>
+                  <l>Devout he was, and fear'd the Lord,</l>
+                  <l>And pray'd moſt fervently,</l>
+                  <l>His Alms they were ſo ſpread abroad,</l>
+                  <l>They reach'd above the Sky.</l>
+                  <l>Yea, and the holy Spirit too,</l>
+                  <l>God unto him had given;</l>
+                  <l>And yet we find he'd work to do,</l>
+                  <l>Although baptiz'd from Heav'n;</l>
+                  <l>Baptiz'd he muſt with Water be,</l>
+                  <l>It ſtood him ſo in hand,</l>
+                  <l>As in the Scripture you may ſee,</l>
+                  <l>
+                     <hi>Peter</hi> did ſo command.</l>
+                  <l>
+                     <pb n="14" facs="tcp:108815:8"/>And now from hence I do infer,</l>
+                  <l>The better that Men be,</l>
+                  <l>That they thereby the ſitter are</l>
+                  <l>Baptized for to be.</l>
+                  <l>Therefore no longer ſtout it out,</l>
+                  <l>But be thou advertis'd;</l>
+                  <l>It is thy Duty, make no doubt,</l>
+                  <l>Ariſe and be baptiz'd.</l>
+               </div>
+            </div>
+            <div n="5" type="objection">
+               <head>The Fifth Objection.</head>
+               <l>Pray hear me yet this one thing more,</l>
+               <l>It was ſo in its day;</l>
+               <l>But now Baptizing's out of door,</l>
+               <l>And vaniſh'd quite away.</l>
+               <div type="reply_to_objection">
+                  <head>Anſwer.</head>
+                  <l>Alas, poor Soul! who told thee ſo?</l>
+                  <l>Is't not Preaching's Companion?<note place="margin">Matt. 28.19.20.</note>
+                  </l>
+                  <l>It is of God the Scriptures ſhow,</l>
+                  <l>And can't be null'd by Man.</l>
+                  <l>This is a ſubtile thing indeed,</l>
+                  <l>By crafty Men ſurmiz'd,</l>
+                  <l>Therefore I pray repent with ſpeed,</l>
+                  <l>Ariſe and be baptiz'd.</l>
+               </div>
+            </div>
+         </div>
+         <div type="part">
+            <head>The Call to Submit.</head>
+            <l>COme, Friend, what linger yet like <hi>Lot?</hi>
+            </l>
+            <l>What, loth for to obey</l>
+            <l>That Bleſſed Lamb that had no Spot,</l>
+            <l>Ariſe and come away.</l>
+            <l>The Lamb of God let's follow now,</l>
+            <l>Where-ever he doth go;</l>
+            <l>He was baptiz'd, and ſo muſt thou,</l>
+            <l>He hath commanded ſo.</l>
+            <l>Tho' thou waſt born of Parents good,</l>
+            <l>And haſt by them been train'd,</l>
+            <l>
+               <pb n="15" facs="tcp:108815:8"/>And many things haſt underſtood,</l>
+            <l>By Natural Parts attain'd;</l>
+            <l>If <hi>Abraham</hi> had thy Father been,</l>
+            <l>And thou hadſt been Rantiz'd,</l>
+            <l>'Twill not ſuffice; I ſay again,</l>
+            <l>Ariſe and be Baptiz'd.</l>
+         </div>
+         <div type="part">
+            <head>By another Hand.</head>
+            <l>SHall the Son of God Baptized be,</l>
+            <l>By his Great Forerunner <hi>John?</hi>
+            </l>
+            <l>The Almighty Father and Eternal Spirit</l>
+            <l>With pleaſure too look on:<note place="margin">Luke. 3.21.22, 23.</note>
+            </l>
+            <l>
+               <hi>And ſhall not I, poor called Soul,</hi>
+            </l>
+            <l>
+               <hi>Moſt gladly ſubmit thereto!</hi>
+            </l>
+            <l>
+               <hi>For it's a favour He will bid me do.</hi>
+            </l>
+            <l>Shall the Potent Prince <hi>Emanuel</hi>
+            </l>
+            <l>Send o'er the <g ref="char:V">Ʋ</g>niverſe</l>
+            <l>His Ambaſſadors, for to proclaim</l>
+            <l>His Greatneſs, and Baptize?</l>
+            <l>
+               <hi>And ſhall not Grace prevail with me</hi>
+            </l>
+            <l>
+               <hi>To bow my ſelf, give</hi> Chriſt <hi>the</hi> Crown,</l>
+            <l>
+               <hi>And be Baptized as he doth enjoin!</hi>
+            </l>
+            <l>Shall th' Eternal Spirit, Father and Son</l>
+            <l>Work wonderfully for ever,</l>
+            <l>Conquering ſtubborn rebellious, Wills,</l>
+            <l>That Salvation may be ſecure?</l>
+            <l>
+               <hi>And ſhall not I that conquer'd am,</hi>
+            </l>
+            <l>
+               <hi>By his Goodneſs and his Pow'r,</hi>
+            </l>
+            <l>
+               <hi>Be Baptiz'd as his Subject evermore.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108815:9"/>
+            <pb facs="tcp:108815:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
